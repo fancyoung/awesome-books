@@ -1,1 +1,9 @@
 theme: jekyll-theme-merlot
+navbar-links:
+  HOME: "https://book.fancyoung.com/"
+  BLOG: "https://fancyoung.com/"
+social-network-links:
+  github: fancyoung
+disqus: "awesome-book"
+plugins:
+  - jekyll-sitemap
