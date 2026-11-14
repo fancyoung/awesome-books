@@ -8,3 +8,4 @@ social-network-links:
 disqus: "awesome-book"
 plugins:
   - jekyll-sitemap
+google_analytics: "G-CW4G0R15E6"
