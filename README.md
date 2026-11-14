@@ -2,7 +2,7 @@
 
 个人兴趣，收藏一些小众不好找的**科幻**神作，应该不涉及版权问题。  
 其中部分网上已找不到，书本也绝版，通过拍照 + OCR + 人工合并检查。  
-网址: [https://book.fancyoung.com](https://book.fancyoung.com)
+网址: [https://book.iaieye.com](https://book.iaieye.com)
 
 ---
 

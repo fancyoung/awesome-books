@@ -1,7 +1,7 @@
 remote_theme: fancyoung/merlot
 locale: "zh-CN"
 navbar-links:
-  home: "https://book.fancyoung.com/"
+  home: "https://book.iaieye.com/"
   blog: "https://fancyoung.com/"
 social-network-links:
   github: fancyoung
